@@ -1,6 +1,5 @@
-Here is a README.md format for the SentinelMonitor project:
+Here is a nicely formatted README for the SentinelMonitor project:
 
-```markdown
 # 🛡️ SentinelMonitor - Automated Server Health Check & Alert System 🚀
 
 Monitor CPU, RAM, Disk Usage, and Uptime & Get Instant Alerts via Email/Slack
@@ -138,6 +137,5 @@ This project is open-source under the MIT License.
 - 🔹 Author: Your Name
 
 🚀 Happy Monitoring! 🛡️
-```
 
 Replace `yourusername` and `Your Name` with your actual GitHub username and name.
