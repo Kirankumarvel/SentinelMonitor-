@@ -131,7 +131,7 @@ This project is open-source under the MIT License.
 
 ## 📢 Need help? Open an issue or contribute! 🎯
 
-- 🔹 GitHub: https://github.com/Kirankumarvel/sentinelmonitor
+- 🔹 GitHub: https://github.com/Kirankumarvel/SentinelMonitor-
 - 🔹 Author: Kiran Kumar V
 
 🚀 Happy Monitoring! 🛡️
