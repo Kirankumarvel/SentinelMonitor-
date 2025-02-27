@@ -1,5 +1,3 @@
-Here is a nicely formatted README for the SentinelMonitor project:
-
 # 🛡️ SentinelMonitor - Automated Server Health Check & Alert System 🚀
 
 Monitor CPU, RAM, Disk Usage, and Uptime & Get Instant Alerts via Email/Slack
@@ -133,9 +131,9 @@ This project is open-source under the MIT License.
 
 ## 📢 Need help? Open an issue or contribute! 🎯
 
-- 🔹 GitHub: yourgithub.com/sentinelmonitor
-- 🔹 Author: Your Name
+- 🔹 GitHub: https://github.com/Kirankumarvel/sentinelmonitor
+- 🔹 Author: Kiran Kumar V
 
 🚀 Happy Monitoring! 🛡️
 
-Replace `yourusername` and `Your Name` with your actual GitHub username and name.
+
