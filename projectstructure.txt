@@ -1,0 +1,11 @@
+server-health-check/
+│── scripts/
+│   ├── health_check.sh       # Main script to monitor system health
+│   ├── send_alert.sh         # Script to send email/Slack alerts
+│── config/
+│   ├── config.env            # Configuration file for thresholds & Slack API
+│── logs/
+│   ├── health.log            # Stores logs of health checks
+│── .gitignore                # Ignore sensitive files
+│── README.md                 # Project documentation
+│── cronjob.txt               # Cron job setup guide
